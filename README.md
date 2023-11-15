@@ -28,4 +28,7 @@
 
 **[OBS Kinect (with fake green screen)](https://obsproject.com/forum/resources/obs-kinect-with-faux-green-screen.897/)**
 
+[Vidéo youtube du plugin](https://www.youtube.com/watch?v=4QWad1WISOY)
+>**Source:** Site web Youtube et la vidéo du Youtubeur Sir Lynix
+
 ## Conclusion
