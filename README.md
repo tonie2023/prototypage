@@ -14,4 +14,6 @@
 
 ### Extension OBS Studio pour la : Kinect
 
+[OBS Kinect (with fake green screen)](https://obsproject.com/forum/resources/obs-kinect-with-faux-green-screen.897/)
+
 ### Conclusion
