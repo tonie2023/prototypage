@@ -12,4 +12,6 @@
 
 ### Troisième segment de la vidéo : Tests finaux
 
+### Extension OBS Studio pour la : Kinect
+
 ### Conclusion
