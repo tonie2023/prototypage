@@ -6,19 +6,32 @@
 
 >Le test effectué que l'on observe dans la vidéo consistait à déterminer si le logiciel OBS Studio pouvait être un candidat viable pour le projet de fin de parcours à la session d'hiver 2024. Le test et l'évaluation du logiciel consistaient en divers sous-tests par l'entremise de composants et de filtres que l'on retrouve sur OBS Studio. Quant à sa méthodologie, il a fallu réfléchir à la ou les manières pour parvenir aux résultats observables dans la vidéo pour que par la suite expliquer comment je suis parvenu aux résultats finaux du test.
 
-## Premier segment de la vidéo : Préparatifs et tests initiaux
+## Premier segment de la vidéo (de 0 à 1:01 minutes) : Préparatifs et tests initiaux
+
+### Méthodologie explicative
+
+>Pour arriver aux résultats observable dans le premier segment de la vidéo, il a fallu en premier lieux aller sur le site d'OBS Studio pour aller télécharger les extentions requises pour le test.
+<br>
+<br>
+> Deux extentions furent sélectionnées soient : **obs-background-removal** et une autre déjà installée dans le logiciel soit la **correction de couleurs**
+<br>
+<br>
+>Par la suite, le calibrage des filtres(les extentions), des composants (exemple :**périphérie de capture vidéo**) a permis d'enlever l'arrière-plan que la caméra de l'ordinateur voyait et le filtre de la correction de couleurs a permis de confirmer qu'il était possible de ne garder que la sihouette d'une personne. Ce qui permet de croire que cela permettra au mur de leds de reproduire uniquement la silhoutte de la personne entrant dans le périmètre de la caméra.
+<br>
+<br>
+## Deuxième segment de la vidéo (de 1:01 à 4:48 minutes): Calibrage des composants, des filtres pour les sous-tests
+<br>
+<br>
+>Dans ce deuxième segment, il y est question de savoir par l'entremise de sous-test si les composants avec les filtres permettent d'ajouter des couleurs ou des éléments animés à la silhouette d'une personne.
+<br>
+<br>
+>Le but de ces sous-tests est évidemment de vérifier la fiabilité du logiciel et de son potentiel de travail. Mais, il y a également un autre but. Il s'agit de s'assurer qu'en cas d'échec de l'option du mur de leds, il y ait d'autres options pouvant remplacer le mur de leds pour éviter toutes impasses dans la réalisation du projet final.
 
 ### Méthodologie explicative
 
 
 
-## Deuxième segment de la vidéo : Calibrage des composants, des filtres des sous-tests
-
-### Méthodologie explicative
-
-
-
-## Troisième segment de la vidéo : Tests finaux
+## Troisième segment de la vidéo (de 4:48 à 6:51 minutes) : Tests finaux
 
 ### Méthodologie explicative
 
@@ -30,19 +43,19 @@
 
 >**Pourquoi cette extension d'OBS Studio est-elle si importante pour le prototypage?**
 
-> Son importance vient de l'idée du projet de fin de session : Une expérience audio-visuelle interactive mimétique et également de chercher à savoir si le logiciel OBS Studio peut être fiable pour aider à réaliser cette vision du projet final.
+>Son importance vient de l'idée du projet de fin de session : Une expérience audio-visuelle interactive mimétique et également de chercher à savoir si le logiciel OBS Studio peut être fiable pour aider à réaliser cette vision du projet final.
 <br>
 <br>
-> Dans les trois segments plus haut, on a constaté que OBS Studio permet d'accomplir une série d'action dont celle permettant de retirer l'arrière-plan que la caméra voit pour ne laisser que la personne au centre.
+>Dans les trois segments plus haut, on a constaté que OBS Studio permet d'accomplir une série d'action dont celle permettant de retirer l'arrière-plan que la caméra voit pour ne laisser que la personne au centre.
 <br>
 <br>
-> Les sous-tests ont été réalisés avec l'aide de composants (dont la périphérie de capture vidéo et le navigateur web), de filtres et d'extensions (comme celle qui enlève l'arrière-plan, celle qui utilisent des shaders sur l'objet ou la personne visée et celle de la correction de couleurs)
+>Les sous-tests ont été réalisés avec l'aide de composants (dont la périphérie de capture vidéo et le navigateur web), de filtres(qui comportent les extentions).
 <br>
 <br>
-> Ce qui a permis d'obtenir des résultats encourageant dans l'obtention de la réponse à savoir si OBS Studio peut être un outil fiable pour le projet final.
+>Ce qui a permis d'obtenir des résultats encourageant dans l'obtention de la réponse à savoir si OBS Studio peut être un outil fiable pour le projet final.
 <br>
 <br>
-> Maintenant, revenons à la question plus haut. Pourquoi l'extention OBS Studio Kinect est importante? Car celle-ci permet **de calibrer directement la kinect sans passer par l'intermédiaire du logiciel du même** et elle encense les divers sous-tests faits dans le but de prouver la pertinence du logiciel OBS Studio. 
+>Maintenant, revenons à la question plus haut. Pourquoi l'extention OBS Studio Kinect est importante? Car celle-ci permet **de calibrer directement la kinect sans passer par l'intermédiaire du logiciel du même** et elle encense les divers sous-tests faits dans le but de prouver la pertinence du logiciel OBS Studio. 
 <br>
 <br>
 **[OBS Kinect (with fake green screen)](https://obsproject.com/forum/resources/obs-kinect-with-faux-green-screen.897/)**
@@ -52,6 +65,6 @@
 >**Source:** Site web Youtube et la vidéo du Youtubeur Sir Lynix
 <br>
 <br>
-> Dans cette vidéo, on observera l'utilisateur jouer avec un extrait des composants que l'extention OBS Studio Kinect a offrir et de son potentiel pour la réalisation de mon idée de projet final.
+>Dans cette vidéo, on observera l'utilisateur jouer avec un extrait des composants que l'extention OBS Studio Kinect a offrir et de son potentiel pour la réalisation de mon idée de projet final.
 <br>
 ## Conclusion
