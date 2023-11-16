@@ -16,28 +16,30 @@
 > Deux extentions furent sélectionnées soient : **obs-background-removal** et une autre déjà installée dans le logiciel soit la **correction de couleurs**
 <br>
 <br>
->Par la suite, le calibrage des filtres(les extentions), des composants (exemple :**périphérie de capture vidéo**) a permis d'enlever l'arrière-plan que la caméra de l'ordinateur voyait et le filtre de la correction de couleurs a permis de confirmer qu'il était possible de ne garder que la sihouette d'une personne. Ce qui permet de croire que cela permettra au mur de leds de reproduire uniquement la silhoutte de la personne entrant dans le périmètre de la caméra.
+>Par la suite, le calibrage des filtres(les extentions), des composants (exemple : **périphérie de capture vidéo**) a permis d'enlever l'arrière-plan que la caméra de l'ordinateur voyait et le filtre de la correction de couleurs a permis de confirmer qu'il était possible de ne garder que la sihouette d'une personne. Ce qui permet de croire que cela permettra au mur de leds de reproduire uniquement la silhoutte de la personne entrant dans le périmètre de la caméra.
 <br>
 <br>
 ## Deuxième segment de la vidéo (de 1:01 à 4:48 minutes): Calibrage des composants, des filtres pour les sous-tests
-<br>
+
+### Méthodologie explicative
 <br>
 >Dans ce deuxième segment, il y est question de savoir par l'entremise de sous-test si les composants avec les filtres permettent d'ajouter des couleurs ou des éléments animés à la silhouette d'une personne.
 <br>
 <br>
 >Le but de ces sous-tests est évidemment de vérifier la fiabilité du logiciel et de son potentiel de travail. Mais, il y a également un autre but. Il s'agit de s'assurer qu'en cas d'échec de l'option du mur de leds, il y ait d'autres options pouvant remplacer le mur de leds pour éviter toutes impasses dans la réalisation du projet final.
+<br>
+<br>
+>À la suite des sous-tests, il m'est possible d'affirmer qu'OBS Studio avec ses composants et ses filtres compile plusieurs possibilités permettant de rapidement changer de direction en cas d'échec imprévu d'une partie du projet.
+
+## Troisième segment de la vidéo (de 4:48 à 6:51 minutes) : Test final
 
 ### Méthodologie explicative
+<br>
+<br>
+>Dans ce troisième segment de la vidéo, on observe l'aboutissement du test et des sous-tests effectués que l'on peut voir dans les deux premiers segments de la vidéo. Cet aboutissment valide mon hypothèse consistant à savoir s'il était possible d'utiliser le logiciel OBS Studio comme candidat viable pour transmettre visuellement la sihouette d'une personne dans le cadre du projet final en hiver 2024.
+<br>
 
-
-
-## Troisième segment de la vidéo (de 4:48 à 6:51 minutes) : Tests finaux
-
-### Méthodologie explicative
-
-
-
-## Extension OBS Studio pour la : Kinect
+## Extension OBS Studio : Kinect
 
 ### Méthodologie explicative
 
@@ -68,3 +70,5 @@
 >Dans cette vidéo, on observera l'utilisateur jouer avec un extrait des composants que l'extention OBS Studio Kinect a offrir et de son potentiel pour la réalisation de mon idée de projet final.
 <br>
 ## Conclusion
+
+À la suite du test, de ses sous-tests, des composants et des filtres(extentions) sur le logiciel d'OBS Studio il m'est possible de confirmer la validité de mon prototypage. Cela m'a permis de conclure que ce logiciel possède une myriade de possibilitées dans la réalisation de mon idée de projet étant : Une expérience audio-visuelle interactive mimétique. Puisque cette myriade de possibilitées me permet en cas d'imprévu ou d'échec de pouvoir rapidement trouver une solution au(x) problème(s) ou carrément de changer de direction (**par exemple : utiliser un mur mobile avec le projecteur au lieux d'un mur de leds**).  
