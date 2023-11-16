@@ -24,7 +24,7 @@
 
 ### Méthodologie explicative
 <br>
->Dans ce deuxième segment, il y est question de savoir par l'entremise de sous-test si les composants avec les filtres permettent d'ajouter des couleurs ou des éléments animés à la silhouette d'une personne.
+> Dans ce deuxième segment, il y est question de savoir par l'entremise de sous-test si les composants avec les filtres permettent d'ajouter des couleurs ou des éléments animés à la silhouette d'une personne.
 
 <br>
 <br>
@@ -32,13 +32,13 @@
 
 <br>
 <br>
->À la suite des sous-tests, il m'est possible d'affirmer qu'OBS Studio avec ses composants et ses filtres compile plusieurs possibilités permettant de rapidement changer de direction en cas d'échec imprévu d'une partie du projet.
+> À la suite des sous-tests, il m'est possible d'affirmer qu'OBS Studio avec ses composants et ses filtres compile plusieurs possibilités permettant de rapidement changer de direction en cas d'échec imprévu d'une partie du projet.
 
 ## Troisième segment de la vidéo (de 4:48 à 6:51 minutes) : Test final
 
 ### Méthodologie explicative
 <br>
->Dans ce troisième segment de la vidéo, on observe l'aboutissement du test et des sous-tests effectués que l'on peut voir dans les deux premiers segments de la vidéo. Cet aboutissment valide mon hypothèse consistant à savoir s'il était possible d'utiliser le logiciel OBS Studio comme candidat viable pour transmettre visuellement la sihouette d'une personne dans le cadre du projet final en hiver 2024.
+> Dans ce troisième segment de la vidéo, on observe l'aboutissement du test et des sous-tests effectués que l'on peut voir dans les deux premiers segments de la vidéo. Cet aboutissment valide mon hypothèse consistant à savoir s'il était possible d'utiliser le logiciel OBS Studio comme candidat viable pour transmettre visuellement la sihouette d'une personne dans le cadre du projet final en hiver 2024.
 <br>
 
 ## Extension OBS Studio : Kinect
